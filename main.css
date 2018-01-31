@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    background: white;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 4em;
+}
+
+input {
+    font-size: 1em;
+    text-align: center;
+}
+
+button {
+    font-size: 1em;
+}
+
+#conversion {
+    color: black;
+}
+
+#clearAndConvert {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
